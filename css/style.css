@@ -1,0 +1,14 @@
+@import url(../css/animation.css);
+@import url(../css/typography.css);
+@import url(../css/animation.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+body{
+    font-family: 'Abril Fatface', cursive;
+}
+h1{
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
